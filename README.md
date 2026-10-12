@@ -155,10 +155,4 @@ This project is intended for educational and research purposes. Please check the
 
 Thanks to all the contributors, educators, and open-source communities that support Arduino-based experimentation and optical communication learning.
 
----
 
-If you want, I can also generate:
-- a more technical README for a college project
-- a professional README with images and headings
-- a simpler beginner-friendly README
-- a version specifically based on your actual Arduino code files if you share them
